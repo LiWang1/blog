@@ -6,16 +6,16 @@ header-img: "img/facebook.jpg"
 ---
 
 ## Educations:
-### Currently a master's student of Environmental Engineering, ETH Zurich;
-### Bachelor of Engineering in Hunan University.
+1. Currently a master's student of Environmental Engineering, ETH Zurich;
+2. Bachelor of Engineering in Hunan University.
 
 ## Project (work) Experiences:
-### Master thesis at Eawag (Automatic Differentiation for Environmental Models);
-### Research assistant of the Institute of Transport Planing, ETH Zurich;
-### Intern at Photrack AG (Water Discharge Estimation using SSIV and machine learning Method);
-### National Student Innovation Program (Design of Flexible Electro-Sorption Devices using CNT/PANI Electrodes).
+1. Master thesis at Eawag (Automatic Differentiation for Environmental Models);
+2. Research assistant of the Institute of Transport Planing, ETH Zurich;
+3. Intern at Photrack AG (Water Discharge Estimation using SSIV and machine learning Method);
+4. National Student Innovation Program (Design of Flexible Electro-Sorption Devices using CNT/PANI Electrodes).
 
 ## Skills:
-### Good programming and data analysis (mining) skills (R, Python);
-### Good knowledge as an environmental engineer;
-### Proficient in English and Chinese, and basic level for German.
+1. Good programming and data analysis (mining) skills (R, Python);
+2. Good knowledge as an environmental engineer;
+3. Proficient in English and Chinese, and basic level for German.
