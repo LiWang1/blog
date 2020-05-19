@@ -41,7 +41,7 @@ header-img: "img/facebook.jpg"
 * [Urban Drainage Planning and Modelling](https://sww.ifu.ethz.ch/education/lectures/urban-drainage.html)
 * [Life Cycle Assessment](https://esd.ifu.ethz.ch/studium/lectures/2020.html)
 
-**Skill**
+**Skill:**
 * Good programming skills: R, Python, Julia;
 * Language: proficient in English and Chinese; 
 * Good communication and collaboration;
