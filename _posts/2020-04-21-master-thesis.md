@@ -7,5 +7,4 @@ The thesis has two scenarios for the application of the automatic differentiatio
 
 2. AD + NN: to use neural network to replace part of the model. There are two models used in this thesis: the toy model (as named "toymodel_main.jl" and the russikon conceptual model (as named "batch_main.jl"). There is also sensitivity analysis for the original conceptual model. The code is in the file "ODE+NN", and the packages used are listed in Manifest.toml and Project.toml files.
 
-The report of the thesis can be seen from:
-https://www.overleaf.com/read/rztwzbrsmtwm
+The report of the thesis can be seen from [here.](https://www.overleaf.com/read/rztwzbrsmtwm)
