@@ -6,8 +6,8 @@ header-img: "img/li.jpg"
 ---
 
 ## Education
-* [MSc in Environmental Engineering, ETH Zurich](https://ethz.ch/)
-* [BSc in Water Supply and Drainage Engineering, Hunan University](http://www-en.hnu.edu.cn/)
+* __[MSc in Environmental Engineering, ETH Zurich](https://ethz.ch/)__ (GPA: 5.25/6)
+* __[BSc in Water Supply and Drainage Engineering, Hunan University](http://www-en.hnu.edu.cn/)__ (GPA: 89.9/100)
 
 ## Experience
 * __[Automatic Differentiation for Environmental Models](https://github.com/LiWang1/masterthesis)__, Eawag (ETH Zurich), 2019~2020    
