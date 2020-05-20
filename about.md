@@ -6,24 +6,24 @@ header-img: "img/facebook.jpg"
 ---
 
 **Education:**
-* MSc in Environmental Engineering, [ETH Zurich](https://ethz.ch/)
-* BSc in Water Supply and Drainage Engineering, [Hunan University](http://www-en.hnu.edu.cn/)
+* [MSc in Environmental Engineering, ETH Zurich](https://ethz.ch/)
+* [BSc in Water Supply and Drainage Engineering, Hunan University](http://www-en.hnu.edu.cn/)
 
 **Project Experience:**
-* Automatic Differentiation for Environmental Models 
+* [Automatic Differentiation for Environmental Models](https://github.com/LiWang1/masterthesis) 
   (Master thesis, Eawag)
   * Assessed the potential of AD for speeding up the environmental model calibration processes;
   * Extended the traditional environmental models (ODEs) with neural networks and increased the model prediction performance;
   
-* Carsharing demand estimation and supply optimization for California (Research Assistant)
+* [Carsharing demand estimation and supply optimization for California](https://github.com/LiWang1/hiwi_ivt) (Research Assistant, ETH Zurich)
   * Transportation data analysis with R and Python, data interpretation and visulization;
   * Modelcalibration (MATsim); 
 
-* Water Discharge Estimation using SSIV and Machine Learning Methods
+* Water Discharge Estimation using SSIV and Machine Learning Methods (Intern, Photrack AG)
   * Collected data and assessed the performance of the product "Discharge-Keeper" in the sewer system, the resulthasbeenpublishedatAquaUrbanica;
   * Adjusted the algorithm and removed the effect of extreme weathers (fog) influence;
 
-* Design of Flexible Electro-Sorption Devices using CNT/PANI Electrodes
+* [Design of Flexible Electro-Sorption Devices using CNT/PANI Electrodes](http://www.zghjkx.com.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=14900) (Program leader, Hunan University)
   * Prepared the material CNT/PANI using in situ chemical oxidative polymerization method, made the electrodes with CNT/PANI and CNT, and compared their performances in removing heavy metal ions;
   * The project won a national fund and the results have been published at the Journal of China Environmental Science; 
 
