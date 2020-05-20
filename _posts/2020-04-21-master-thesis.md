@@ -1,4 +1,3 @@
-# Master Thesis
 ## Automatic Differentiation for Environmental Models
 
 The thesis has two scenarios for the application of the automatic differentiation(AD) in Environmental Models(EMs).
