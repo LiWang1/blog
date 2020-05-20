@@ -2,7 +2,7 @@
 layout: page
 title: "About Me"
 description: Master's student at ETH Zurich
-header-img: "img/facebook.jpg"
+header-img: "img/li.jpg"
 ---
 
 **Education:**
@@ -10,14 +10,14 @@ header-img: "img/facebook.jpg"
 * [BSc in Water Supply and Drainage Engineering, Hunan University](http://www-en.hnu.edu.cn/)
 
 **Project Experience:**
-* [Automatic Differentiation for Environmental Models](https://github.com/LiWang1/masterthesis) 
+* [Automatic Differentiation for Environmental Models](https://github.com/LiWang1/masterthesis)
   (Master thesis, Eawag)
   * Assessed the potential of AD for speeding up the environmental model calibration processes;
   * Extended the traditional environmental models (ODEs) with neural networks and increased the model prediction performance;
-  
+
 * [Carsharing demand estimation and supply optimization for California](https://github.com/LiWang1/hiwi_ivt) (Research Assistant, ETH Zurich)
   * Transportation data analysis with R and Python, data interpretation and visulization;
-  * Modelcalibration (MATsim); 
+  * Modelcalibration (MATsim);
 
 * Water Discharge Estimation using SSIV and Machine Learning Methods (Intern, Photrack AG)
   * Collected data and assessed the performance of the product "Discharge-Keeper" in the sewer system, the resulthasbeenpublishedatAquaUrbanica;
@@ -25,10 +25,10 @@ header-img: "img/facebook.jpg"
 
 * [Design of Flexible Electro-Sorption Devices using CNT/PANI Electrodes](http://www.zghjkx.com.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=14900) (Program leader, Hunan University)
   * Prepared the material CNT/PANI using in situ chemical oxidative polymerization method, made the electrodes with CNT/PANI and CNT, and compared their performances in removing heavy metal ions;
-  * The project won a national fund and the results have been published at the Journal of China Environmental Science; 
+  * The project won a national fund and the results have been published at the Journal of China Environmental Science;
 
 **Award:**
-* [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91); 
+* [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91);
 * Excellent Graduate of Hunan Province
 * Exemplary Student of Hunan Univeristy
 * First Prize of Engish Speech Competition
@@ -43,9 +43,9 @@ header-img: "img/facebook.jpg"
 
 **Skill:**
 * Good programming skills: R, Python, Julia;
-* Language: proficient in English and Chinese; 
+* Language: proficient in English and Chinese;
 * Good communication and collaboration;
-* Good knowledge of statistics and data analysis (MySQL). 
+* Good knowledge of statistics and data analysis (MySQL).
 
 **Habbit:**
 * Hiking, Swimming, Jogging, Badminton.
