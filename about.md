@@ -5,11 +5,11 @@ description: Master's student at ETH Zurich
 header-img: "img/li.jpg"
 ---
 
-### Education:
+## Education
 * [MSc in Environmental Engineering, ETH Zurich](https://ethz.ch/)
 * [BSc in Water Supply and Drainage Engineering, Hunan University](http://www-en.hnu.edu.cn/)
 
-### Experience:
+## Experience
 * __[Automatic Differentiation for Environmental Models](https://github.com/LiWang1/masterthesis)__, Eawag (ETH Zurich), 2019~2020    
 *Master Thesis (Supervised by: Andreas Scheidegger and Prof. Max Maurer)*
   * Assessed the potential of AD for speeding up the environmental model calibration processes;
@@ -33,25 +33,25 @@ header-img: "img/li.jpg"
   * The project won a national fund and the results have been published at the Journal of China Environmental Science;
   * The results have been published at [China Environmental Science](http://www.zghjkx.com.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=14900); 
 
-### Awards:
+## Awards
 * [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91);
 * Excellent Graduate of Hunan Province
 * Exemplary Student of Hunan Univeristy
 * First Prize of Engish Speech Competition
 * [Peer-to-Peer Award of ETH Week](https://ethz.ch/en/the-eth-zurich/sustainability/education/ETHweek/previous-editions/2018-Energy-Matters/eth-week-diary.html)
 
-### Related Courses:
+## Related Courses
 * [Introduction to Machine Learning](https://las.inf.ethz.ch/teaching/introml-s20)
 * [Computational Statistics](https://stat.ethz.ch/lectures/ss19/comp-stats.php)
 * [Information System for Engineers](https://www.systems.ethz.ch/courses/spring2020/ise)
 * [Urban Drainage Planning and Modelling](https://sww.ifu.ethz.ch/education/lectures/urban-drainage.html)
 * [Life Cycle Assessment](https://esd.ifu.ethz.ch/studium/lectures/2020.html)
 
-### Skills:
+## Skills
 * Good programming skills: R, Python, Julia;
 * Language: proficient in English and Chinese;
 * Good communication and collaboration;
 * Good knowledge of statistics and data analysis (MySQL).
 
-### Habbits:
+## Habbits
 * Hiking, Swimming, Jogging, Badminton.
