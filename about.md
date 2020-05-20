@@ -2,7 +2,7 @@
 layout: page
 title: "About Me"
 description: Master's student at ETH Zurich
-header-img: "img/facebook.jpg"
+header-img: "img/li.jpg"
 ---
 
 **Education:**
@@ -18,8 +18,8 @@ header-img: "img/facebook.jpg"
 **Skill:**
 > 1. Good programming and data analysis (mining) skills (R, Python);
 > 2. Good knowledge as an environmental engineer;
-> 3. Proficient in English and Chinese, and basic level for German; 
-> 4. Good communication and team work spirit. 
+> 3. Proficient in English and Chinese, and basic level for German;
+> 4. Good communication and team work spirit.
 
 **Habbit:**
 > Hiking, Swimming, Jogging, Badminton.
