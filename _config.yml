@@ -39,7 +39,7 @@ timezone: Asia/Shanghai
 defaults:
   -
     scope:
-      path: ""
+      path: "http://liwang.world/about"
       type: "posts"
     values:
       layout: "post"
