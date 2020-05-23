@@ -2,11 +2,6 @@
 layout: default
 ---
 
-{% assign sorted_pages = site.pages | sort:"order" %}
-{% for node in sorted_pages %}
-  <li><a href="{{node.url}}">{{node.title}}</a></li>
-{% endfor %}
-
 <!-- Page Header -->
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
