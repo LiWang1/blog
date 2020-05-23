@@ -6,8 +6,15 @@ header-img: "img/li.jpg"
 ---
 
 ## Education
-* __[MSc in Environmental Engineering, ETH Zurich](https://ethz.ch/)__ (GPA: 5.25/6)
-* __[BSc in Water Supply and Drainage Engineering, Hunan University](http://www-en.hnu.edu.cn/)__ (GPA: 89.9/100)
+* __[MSc in Environmental Engineering, ETH Zurich](https://ethz.ch/)__ 
+  * Courses taken in an interdisciplinery level, with a focus on enviromental modelings and data science;
+  * Top 10% in the department (GPA: 5.25/6); 
+
+* __[BSc in Water Supply and Drainage Engineering, Hunan University](http://www-en.hnu.edu.cn/)__ 
+  * National Scholarship, Excellent Graduate Student of Hunan Province; 
+  * Ranked 3rd in the department (GPA: 89.9/100);
+
+<br/>  
 
 ## Experience
 * __[Automatic Differentiation for Environmental Models](https://github.com/LiWang1/masterthesis)__, Eawag (ETH Zurich), 2019~2020    
@@ -33,12 +40,16 @@ header-img: "img/li.jpg"
   * The project won a national fund and the results have been published at the Journal of China Environmental Science;
   * The results have been published at [China Environmental Science](http://www.zghjkx.com.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=14900); 
 
+<br/>  
+
 ## Awards
 * [National Scholarship](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91);
 * Excellent Graduate of Hunan Province
 * Exemplary Student of Hunan Univeristy
 * First Prize of Engish Speech Competition
 * [Peer-to-Peer Award of ETH Week](https://ethz.ch/en/the-eth-zurich/sustainability/education/ETHweek/previous-editions/2018-Energy-Matters/eth-week-diary.html)
+
+<br/>  
 
 ## Related Courses
 * [Introduction to Machine Learning](https://las.inf.ethz.ch/teaching/introml-s20)
@@ -47,11 +58,15 @@ header-img: "img/li.jpg"
 * [Urban Drainage Planning and Modelling](https://sww.ifu.ethz.ch/education/lectures/urban-drainage.html)
 * [Life Cycle Assessment](https://esd.ifu.ethz.ch/studium/lectures/2020.html)
 
+<br/>  
+
 ## Skills
 * Good programming skills: R, Python, Julia;
 * Language: proficient in English and Chinese;
 * Good communication and collaboration;
 * Good knowledge of statistics and data analysis (MySQL).
+
+<br/>  
 
 ## Habbits
 * Hiking, Swimming, Jogging, Badminton.
