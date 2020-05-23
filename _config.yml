@@ -3,7 +3,7 @@ title: Li Wang # 你的博客名字，可以定义修订
 header-img: "img/facebook.jpg"
 tagline: "cn"
 description: "This is my blog"  # 一句话描述你的博客
-baseurl: ""
+baseurl: "https://wangli.world/about/"
 url: "http://liwang.world"  # 此处填写你的博客地址
 
 # About/contact
