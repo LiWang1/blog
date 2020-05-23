@@ -5,12 +5,15 @@ description: Master's student at ETH Zurich
 header-img: "img/li.jpg"
 ---
 
+## Summary 
+I am a Master student at ETH Zürich, with background in Environmental Engineering. I have experience with Environemntal Modelings, Life Cycle Assessment and Water/Wastewater treatment. Besides, I have a strong interest in programming and data science. In my free time, I enjoy hiking, running, playing badminton and swimming. Below, you can find a selected subset of my resume.
+
 ## Education
-* __[MSc in Environmental Engineering, ETH Zurich](https://ethz.ch/)__ 
-  * Courses taken in an interdisciplinery level, with a focus on enviromental modelings and data science;
+* __[MSc in Environmental Engineering, ETH Zurich](https://ethz.ch/)__, 2017~now
+  * Courses taken in an interdisciplinery level, with a focus on enviromental modelings and data science; 
   * Top 10% in the department (GPA: 5.25/6); 
 
-* __[BSc in Water Supply and Drainage Engineering, Hunan University](http://www-en.hnu.edu.cn/)__ 
+* __[BSc in Water Supply and Drainage Engineering, Hunan University](http://www-en.hnu.edu.cn/)__, 2013~2017
   * National Scholarship, Excellent Graduate Student of Hunan Province; 
   * Ranked 3rd in the department (GPA: 89.9/100);
 
@@ -49,24 +52,5 @@ header-img: "img/li.jpg"
 * First Prize of Engish Speech Competition
 * [Peer-to-Peer Award of ETH Week](https://ethz.ch/en/the-eth-zurich/sustainability/education/ETHweek/previous-editions/2018-Energy-Matters/eth-week-diary.html)
 
-<br/>  
 
-## Related Courses
-* [Introduction to Machine Learning](https://las.inf.ethz.ch/teaching/introml-s20)
-* [Computational Statistics](https://stat.ethz.ch/lectures/ss19/comp-stats.php)
-* [Information System for Engineers](https://www.systems.ethz.ch/courses/spring2020/ise)
-* [Urban Drainage Planning and Modelling](https://sww.ifu.ethz.ch/education/lectures/urban-drainage.html)
-* [Life Cycle Assessment](https://esd.ifu.ethz.ch/studium/lectures/2020.html)
 
-<br/>  
-
-## Skills
-* Good programming skills: R, Python, Julia;
-* Language: proficient in English and Chinese;
-* Good communication and collaboration;
-* Good knowledge of statistics and data analysis (MySQL).
-
-<br/>  
-
-## Habbits
-* Hiking, Swimming, Jogging, Badminton.
