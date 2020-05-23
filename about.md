@@ -8,6 +8,8 @@ header-img: "img/li.jpg"
 ## Summary 
 I am a Master student at ETH Zürich, with background in Environmental Engineering. I have experience with Environemntal Modelings, Life Cycle Assessment and Water/Wastewater treatment. Besides, I have a strong interest in programming and data science. In my free time, I enjoy hiking, running, playing badminton and swimming. Below, you can find a selected subset of my resume.
 
+<br/>  
+
 ## Education
 * __[MSc in Environmental Engineering, ETH Zurich](https://ethz.ch/)__, 2017~now
   * Courses taken in an interdisciplinery level, with a focus on enviromental modelings and data science; 
