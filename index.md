@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Me"
+#title: "Me"
 description: Master's student at ETH Zurich
 header-img: "img/li.jpg"
-order: 1
+#order: 1
 ---
 
 ## Summary
