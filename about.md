@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: "Me"
 description: Master's student at ETH Zurich
 header-img: "img/li.jpg"
 order: 1
