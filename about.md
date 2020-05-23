@@ -3,20 +3,21 @@ layout: page
 title: "About Me"
 description: Master's student at ETH Zurich
 header-img: "img/li.jpg"
+order: 1
 ---
 
-## Summary 
+## Summary
 I am a Master student at ETH Zürich, with background in Environmental Engineering. I have experience with Environemntal Modelings, Life Cycle Assessment and Water/Wastewater treatment. Besides, I have a strong interest in programming and data science. In my free time, I enjoy hiking, running, playing badminton and swimming. Below, you can find a selected subset of my resume.
 
 <br/>  
 
 ## Education
 * __[MSc in Environmental Engineering, ETH Zurich](https://ethz.ch/)__, 2017~now
-  * Courses taken in an interdisciplinery level, with a focus on enviromental modelings and data science; 
-  * Top 10% in the department (GPA: 5.25/6); 
+  * Courses taken in an interdisciplinery level, with a focus on enviromental modelings and data science;
+  * Top 10% in the department (GPA: 5.25/6);
 
 * __[BSc in Water Supply and Drainage Engineering, Hunan University](http://www-en.hnu.edu.cn/)__, 2013~2017
-  * National Scholarship, Excellent Graduate Student of Hunan Province; 
+  * National Scholarship, Excellent Graduate Student of Hunan Province;
   * Ranked 3rd in the department (GPA: 89.9/100);
 
 <br/>  
@@ -43,7 +44,7 @@ I am a Master student at ETH Zürich, with background in Environmental Engineeri
 *National Student Innovation Program (Supervised by: Prof. Zhou Shi)*
   * Prepared the material CNT/PANI using in situ chemical oxidative polymerization method, made the electrodes with CNT/PANI and CNT, and compared their performances in removing heavy metal ions;
   * The project won a national fund and the results have been published at the Journal of China Environmental Science;
-  * The results have been published at [China Environmental Science](http://www.zghjkx.com.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=14900); 
+  * The results have been published at [China Environmental Science](http://www.zghjkx.com.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=14900);
 
 <br/>  
 
@@ -53,6 +54,3 @@ I am a Master student at ETH Zürich, with background in Environmental Engineeri
 * Exemplary Student of Hunan Univeristy
 * First Prize of Engish Speech Competition
 * [Peer-to-Peer Award of ETH Week](https://ethz.ch/en/the-eth-zurich/sustainability/education/ETHweek/previous-editions/2018-Energy-Matters/eth-week-diary.html)
-
-
-
