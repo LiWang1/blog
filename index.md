@@ -27,7 +27,8 @@ I am a Master student at ETH Zürich, with background in Environmental Engineeri
 *[Vereign](https://www.vereign.com/), 2020.03 ~ 2020.06*  
 *Course Project from the class [Entrepreneurial Thinking to Market Relevance](http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2020S&lerneinheitId=136648&lang=en)*
   * Work closely with Vereign, a startup that provides decentralized digital identities, to increase their market stickness; 
-  * Finished the project to characterize the authenticity of digital identities and tried to evaluate the economic value of digital identities; 
+  * Finished the project to characterize the authenticity of digital identities and tried to evaluate the economic value of digital identities;  
+  
 
 * __[Automatic Differentiation for Environmental Models](https://github.com/LiWang1/masterthesis)__  
 *Eawag (ETH Zurich), 2019.10~2020.04*  
