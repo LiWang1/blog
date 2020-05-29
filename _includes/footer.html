@@ -62,6 +62,18 @@
                         </a>
                     </li>
                     {% endif %}
+
+                    {% if site.email_username %}
+                    <li>
+                        <a href="{{ site.facebook_username }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
+
                     <!--
                     {% if site.weibo_username %}
                     <li>
@@ -77,7 +89,7 @@
 
                 </ul>
                 <p class="copyright text-muted">
-                &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} 
+                &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}
                 </p>
             </div>
         </div>
