@@ -13,7 +13,7 @@ I am a Master student at ETH Zürich, with background in Environmental Engineeri
 
 ## Education
 * __[MSc in Environmental Engineering, ETH Zurich](https://ethz.ch/)__, 2017~now
-  * Courses taken in an interdisciplinery level, with a focus on enviromental modelings and data science;
+  * Courses taken in an interdisciplinery level, with a focus on enviromental modelings and data science (E.g., Introduction to Machine Learning; Computational Statistics; Prospective Environmental Assessment; Computer Vision; Probablistic Artificial Intelligence);
   * Top 10% in the department (GPA: 5.25/6);
 
 * __[BSc in Water Supply and Drainage Engineering, Hunan University](http://www-en.hnu.edu.cn/)__, 2013~2017
