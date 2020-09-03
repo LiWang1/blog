@@ -35,13 +35,6 @@ I am a Master student at ETH Zürich, with background in Environmental Engineeri
   * Read literature and build the heavy metal model for coal power plants.
   * [Codes see here;](https://github.com/LiWang1/esd_hiwi)
 
-* __Evaluation of the Unit-base Emission of the Global Coal Power Plants__  
-*[ESD Group, ETH Zurich](https://esd.ifu.ethz.ch/), 2020.06 ~ Now*  
-*Student Research Assistant*
-  * Collect and process the unit-based inventory data in Chinese, and incorporate them into the existed database;
-  * Read literature and build the heavy metal model for coal power plants.
-  * [Codes see here;](https://github.com/LiWang1/esd_hiwi)
-
 * __Characterization of the Authenticity of the Digital Identities__  
 *[Vereign](https://www.vereign.com/), 2020.03 ~ 2020.06*  
 *Course Project from the class [Entrepreneurial Thinking to Market Relevance](http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2020S&lerneinheitId=136648&lang=en)*
