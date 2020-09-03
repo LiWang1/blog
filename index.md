@@ -14,7 +14,7 @@ I am a Master student at ETH Zürich, with background in Environmental Engineeri
 ## Education
 * __[M.Sc in Environmental Engineering, ETH Zurich](https://ethz.ch/)__, 2017~now
   * Courses taken in an interdisciplinary level, with a focus on environmental modelings and data science (E.g., Introduction to Machine Learning; Computational Statistics; Prospective Environmental Assessment; Computer Vision; Probabilistic Artificial Intelligence);
-  * Top 10% in the department (GPA: 5.25/6);
+
 
 * __[B.Sc in Water Supply and Drainage Engineering, Hunan University](http://www-en.hnu.edu.cn/)__, 2013~2017
   * National Scholarship, Excellent Graduate Student of Hunan Province;
@@ -26,7 +26,7 @@ I am a Master student at ETH Zürich, with background in Environmental Engineeri
 
 * __Ecological Assessment for Paygreen AG__  
 *[Paygreen AG](https://paygreen.ch/), 2020.08 ~ Now*
-  * Help Paygreen to build up a general ecological assessment method for corporates; 
+  * Help Paygreen to build up a general ecological assessment method for corporates;
 
 * __Evaluation of the Unit-base Emission of the Global Coal Power Plants__  
 *[ESD Group, ETH Zurich](https://esd.ifu.ethz.ch/), 2020.06 ~ Now*  
